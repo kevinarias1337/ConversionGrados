@@ -1,0 +1,10 @@
+D:\conversiongrados\conversiongrados\bin\Debug\conversiongrados.exe.config
+D:\conversiongrados\conversiongrados\bin\Debug\conversiongrados.exe
+D:\conversiongrados\conversiongrados\bin\Debug\conversiongrados.pdb
+D:\conversiongrados\conversiongrados\obj\Debug\conversiongrados.csprojAssemblyReference.cache
+D:\conversiongrados\conversiongrados\obj\Debug\conversiongrados.Form1.resources
+D:\conversiongrados\conversiongrados\obj\Debug\conversiongrados.Properties.Resources.resources
+D:\conversiongrados\conversiongrados\obj\Debug\conversiongrados.csproj.GenerateResource.cache
+D:\conversiongrados\conversiongrados\obj\Debug\conversiongrados.csproj.CoreCompileInputs.cache
+D:\conversiongrados\conversiongrados\obj\Debug\conversiongrados.exe
+D:\conversiongrados\conversiongrados\obj\Debug\conversiongrados.pdb
